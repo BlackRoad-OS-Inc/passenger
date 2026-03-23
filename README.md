@@ -1,3 +1,11 @@
+# passenger
+
+> Passenger — Sovereign AI inference engine. BlackRoad fork of Ollama. Local-first, fleet-routed, 52 TOPS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Passenger — BlackRoad Road Fleet
 
 > **Sovereign AI inference engine.** Fork of [Ollama](https://github.com/ollama/ollama).
